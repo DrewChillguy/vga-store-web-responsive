@@ -1,3 +1,5 @@
+
+/*
 html {
     font-size: 18px;
     background-color: rgb(235, 235, 235);
@@ -59,7 +61,8 @@ nav img {
 
 /*----why us----*/
 
-h1.why-us {
+
+/* h1.why-us {
     text-align: center;
     padding: 10px;
 }
@@ -102,7 +105,7 @@ h1.why-us {
 
 /*-----SHOP NOW----*/
 
-h2 {
+/*h2 {
     text-align: center;
 }
 
@@ -137,7 +140,7 @@ h2 {
 
 /*-----Trade in-----*/
 
-.trade-in{
+/*.trade-in{
     max-width: 800px;
     margin: 0 auto;
 }
@@ -188,7 +191,7 @@ input[type="submit"]:hover {
 /*-----footer-----*/
 
 
-#footer {
+/*#footer {
     text-align: center;
     margin-top: 30px;
 }
@@ -208,3 +211,5 @@ input[type="submit"]:hover {
     color: grey;
     font-size: 0.875rem;
 }
+
+*/
